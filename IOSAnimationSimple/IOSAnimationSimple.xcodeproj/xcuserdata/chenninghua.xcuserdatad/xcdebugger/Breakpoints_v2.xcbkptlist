@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "IOSAnimationSimple/ScaleViewController.swift"
+            timestampString = "454573528.021275"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "ScaleViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "IOSAnimationSimple.ScaleViewController.ScaleBlueSquare.getter : weak Swift.ImplicitlyUnwrappedOptional&lt;ObjectiveC.UIView&gt;"
+                  moduleName = "IOSAnimationSimple"
+                  urlString = "file:///Users/chenninghua/cnh/ios_application/IOS_Animation/IOSAnimationSimple/IOSAnimationSimple/ScaleViewController.swift"
+                  timestampString = "454426535.175574"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "IOSAnimationSimple.ScaleViewController.ScaleBlueSquare.setter : weak Swift.ImplicitlyUnwrappedOptional&lt;ObjectiveC.UIView&gt;"
+                  moduleName = "IOSAnimationSimple"
+                  urlString = "file:///Users/chenninghua/cnh/ios_application/IOS_Animation/IOSAnimationSimple/IOSAnimationSimple/ScaleViewController.swift"
+                  timestampString = "454426535.175882"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "IOSAnimationSimple.ScaleViewController.ScaleBlueSquare.materializeForSet : weak Swift.ImplicitlyUnwrappedOptional&lt;ObjectiveC.UIView&gt;"
+                  moduleName = "IOSAnimationSimple"
+                  urlString = "file:///Users/chenninghua/cnh/ios_application/IOS_Animation/IOSAnimationSimple/IOSAnimationSimple/ScaleViewController.swift"
+                  timestampString = "454426535.176124"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "IOSAnimationSimple.ScaleViewController.init (IOSAnimationSimple.ScaleViewController.Type)(nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;ObjectiveC.NSBundle&gt;) -&gt; IOSAnimationSimple.ScaleViewController"
+                  moduleName = "IOSAnimationSimple"
+                  urlString = "file:///Users/chenninghua/cnh/ios_application/IOS_Animation/IOSAnimationSimple/IOSAnimationSimple/ScaleViewController.swift"
+                  timestampString = "454426535.176453"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "53">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "IOSAnimationSimple.ScaleViewController.init (IOSAnimationSimple.ScaleViewController.Type)() -&gt; IOSAnimationSimple.ScaleViewController"
+                  moduleName = "IOSAnimationSimple"
+                  urlString = "file:///Users/chenninghua/cnh/ios_application/IOS_Animation/IOSAnimationSimple/IOSAnimationSimple/ScaleViewController.swift"
+                  timestampString = "454426535.176675"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "24">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "IOSAnimationSimple.ScaleViewController.init (IOSAnimationSimple.ScaleViewController.Type)(coder : ObjectiveC.NSCoder) -&gt; IOSAnimationSimple.ScaleViewController"
+                  moduleName = "IOSAnimationSimple"
+                  urlString = "file:///Users/chenninghua/cnh/ios_application/IOS_Animation/IOSAnimationSimple/IOSAnimationSimple/ScaleViewController.swift"
+                  timestampString = "454426535.176892"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "28">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
